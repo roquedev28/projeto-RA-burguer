@@ -13,3 +13,4 @@ const menuOptions = [
 { name: 'X-Vegan', price: 45, vegan: true, src: './img/monstruoso-vegan.png' },
 
 ]
+
